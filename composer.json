@@ -1,0 +1,5 @@
+{
+	"require": {
+		"plivo/plivo-php": "v1.1.5"
+	}
+}
